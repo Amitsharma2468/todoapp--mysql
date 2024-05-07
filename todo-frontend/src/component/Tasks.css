@@ -1,0 +1,15 @@
+.task-container{
+    display: flex;
+    width: 100%;
+    justify-content:space-between;
+    align-items: center;
+}
+.task-icon-container{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.del-icon:hover{
+    color: red;
+    cursor: pointer;
+}
